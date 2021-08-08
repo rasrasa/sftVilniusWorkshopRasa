@@ -1,0 +1,26 @@
+{
+  "name": "rasa",
+  "version": "1.0.0",
+  "description": "My first test, checking if everything is working",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasrasa/sftVilniusWorkshopRasa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasrasa/sftVilniusWorkshopRasa/issues"
+  },
+  "homepage": "https://github.com/rasrasa/sftVilniusWorkshopRasa#readme",
+  "dependencies": {
+    "@playwright/test": "^1.13.1",
+    "install": "^0.13.0",
+    "npx": "^10.2.2",
+    "playwright": "^1.13.1"
+  }
+}
